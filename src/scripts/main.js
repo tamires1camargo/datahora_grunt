@@ -1,3 +1,3 @@
-document.addEventListener('DOMContentLoaded', function displayDate() {
+function displayDate() {
     document.getElementById("demo").innerHTML = Date();
-})
+}
